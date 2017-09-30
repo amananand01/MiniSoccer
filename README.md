@@ -1,6 +1,5 @@
 # MiniSoccer
-Pygame Multiplayer Soccer Game
-This is a multiplayer soccer game which can be played using two computers.
+Pygame Multiplayer Soccer Game which can be played using two computers.
 
 The project is coded in Python3 and Mastermind and pygame are the major libraries used.
 I did this as a project for a computing course at the University of Alberta.
